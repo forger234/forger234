@@ -95,13 +95,6 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 
 ---
 
-## 📊 GitHub Stats
-![Anila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forger234&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forger234&layout=compact&theme=radical)
-
----
-
 ## 🎯 Career Goal
 To become a highly skilled **AI & Cloud Engineer** building scalable, intelligent systems that create real-world impact.
 
