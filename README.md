@@ -50,7 +50,7 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 ### 🎮 SAHASAM – Movie Promotion Browser Game (Phaser 3 + AWS)
 - Interactive puzzles, storytelling & animations
 - Cloud saves using **AWS Lambda & DynamoDB**
-- Player analytics and **全球 leaderboards**
+- Player analytics and ** leaderboards**
 
 ---
 
