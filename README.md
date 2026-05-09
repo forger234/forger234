@@ -5,7 +5,7 @@
 📧 anilathomas2019@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/anila-thomas-a31469276  
 🔗 GitHub: https://github.com/forger234  
-
+🔗 Portfolio: https://forger234.github.io/my_portfolio/
 ---
 
 ## 👨‍💻 About Me
