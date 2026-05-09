@@ -21,7 +21,7 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages  
-`Python` • `Java` • `JavaScript` • `Dart`
+`Python` • `Java` • `JavaScript` 
 
 ### ☁️ Cloud & Backend  
 `AWS Lambda` • `API Gateway` • `DynamoDB` • `Firebase` • `REST APIs`
@@ -30,7 +30,7 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 `Machine Learning` • `NLP` • `Data Processing` • `OpenCV`
 
 ### 🌐 Frontend & Mobile  
-`Flutter` • `HTML` • `CSS` • `JavaScript` • `Phaser.js`
+`HTML` • `CSS` • `JavaScript` 
 
 ### ⚙️ Tools  
 `Git` • `GitHub` • `UI/UX Design` • `VS Code`
@@ -76,7 +76,6 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 
 - ✅ **Kaggle – Machine Learning Certification Badge**  
 - ✅ **HackerRank – Python Programming Certification**  
-- ✅ **GUVI – Technical Skill Development Certification**  
 - ✅ **Prompt Engineering – Dubai Future Foundation**  
 - ✅ **Python for Data Science – NPTEL**  
 - ✅ **Brototype Campus Community – Certificate of Completion**
