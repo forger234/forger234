@@ -115,6 +115,7 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 # 🎓 Education
 
 **B.Tech – University College of Engineering, Thodupuzha** (2022 – Present)
+
 **Higher Secondary – St. Aloysius HSS, Thrissur** — 94%
 
 ---
