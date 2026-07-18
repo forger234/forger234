@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anila Thomas
 
-### 🚀 AI & Cloud Developer | Machine Learning Enthusiast | Full-Stack Developer
+###  AI & Cloud Developer | Machine Learning Enthusiast | Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=AI%2FML+Engineer+%7C+Cloud+Developer+%7C+Full-Stack+Developer;Developing+Scalable+AI-Powered+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;AWS+Serverless+%7C+Python+%7C+OpenCV+%7C+PyTorch;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
 
@@ -24,7 +24,7 @@ Passionate about solving real-world problems through scalable software, medical 
   <img src="https://streak-stats.demolab.com?user=forger234&theme=github-dark&hide_border=true"/>
 </p>
 
-# 🚀 Current Focus
+#  Current Focus
 
 - 🩺 Building AI-powered healthcare applications
 - 🤖 Exploring Large Language Models & NLP
@@ -45,7 +45,7 @@ Passionate about solving real-world problems through scalable software, medical 
 | **Cloud** | AWS Lambda • API Gateway • DynamoDB • Firebase |
 | **Databases** | SQLite • SQL • DynamoDB |
 | **Tools** | Git • GitHub • VS Code • Phaser 3 • Pillow • PDF Processing • UI/UX Design |
-# 🌟 Featured Projects
+#  Featured Projects
 
 ## 🩺 MammoSafe — AI-Powered Breast Cancer Detection
 
@@ -177,7 +177,7 @@ Passionate about solving real-world problems through scalable software, medical 
 
 `Python` `OpenCV` `MediaPipe` `CVZone`
 
-# 💼 Experience
+#  Experience
 
 ### Software Development Engineer Intern
 
@@ -190,7 +190,7 @@ Passionate about solving real-world problems through scalable software, medical 
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 - 🥇 Anthropic — Claude 101 AI Fluency
 - ☁️ Google Cloud Skills Boost — Generative AI for Healthcare
@@ -208,7 +208,7 @@ Passionate about solving real-world problems through scalable software, medical 
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 [![Anila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=forger234&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
