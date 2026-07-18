@@ -15,8 +15,8 @@ I’m a passionate **AI Engineer and Cloud Developer** with hands-on experience 
 
 * Serverless cloud applications using **AWS**
 * Intelligent systems using **Python & NLP**
-* Mobile and web apps using **Flutter & JavaScript**
 * Medical AI systems using **Deep Learning & Computer Vision**
+* Mobile and web apps using **Flutter & JavaScript**
 
 I love solving real-world problems with **AI + Cloud + Full-Stack technologies** and actively share my work on GitHub.
 
@@ -26,7 +26,7 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 
 ### 👨‍💻 Languages
 
-`Python` • `Java` • `JavaScript`
+`Python`  • `C`• `Java` • `JavaScript` • `C++`
 
 ### ☁️ Cloud & Backend
 
@@ -34,7 +34,7 @@ I love solving real-world problems with **AI + Cloud + Full-Stack technologies**
 
 ### 🤖 AI & Data
 
-`Machine Learning` • `Deep Learning` • `NLP` • `OpenCV` • `PyTorch` • `Computer Vision`
+`Machine Learning` • `Deep Learning` • `NLP` • `OpenCV` • `PyTorch` • `Computer Vision` • `Scit-learn`
 
 ### 🌐 Frontend & Mobile
 
