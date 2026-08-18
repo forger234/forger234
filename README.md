@@ -16,14 +16,6 @@ Passionate about solving real-world problems through scalable software, medical 
 
 ---
 
-## 📊 GitHub Analytics
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=forger234&theme=github-dark&hide_border=true"/>
-</p>
-
 #  Current Focus
 
 - 🩺 Building AI-powered healthcare applications
